@@ -1,0 +1,6 @@
+{
+  "name": "TastyGo",
+  "description": "Appetizing restaurant ordering app with customer dine-in and delivery ordering, customizations, live order tracking, and restaurant admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
